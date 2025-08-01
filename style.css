@@ -1,15 +1,13 @@
 body{
 
   background-color: rgb(0, 0, 0);
-    color:purple;
+    color: rgb(0, 255, 255);
     
-
-
 }
 header{
 font-family: "Barlow", sans-serif;
     font-size:70px;
-    border-bottom: double 5px purple;
+    border-bottom: double 5px rgb(0. 255, 255);
     padding: 50px;
     text-align: center;
 }
@@ -19,4 +17,10 @@ h1{
 }
 p{
   font-size: 20px;
+}
+section {
+    display: flex;
+    justify-content: center;
+    background-color: white;
+
 }
